@@ -454,3 +454,9 @@ Input: the initial transmission and rotation of the tubes.
 ### Homing procedure (TDCR)
 
 TODO.
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE).
